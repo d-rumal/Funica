@@ -1,0 +1,611 @@
+{
+    "_dispatchInstances": {
+        "_debugHookTypes": null,
+        "_debugNeedsRemount": false,
+        "_debugOwner": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.10705912113189697,
+            "actualStartTime": 598321097.541471,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Object
+            ],
+            "flags": 1,
+            "index": 1,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.024036049842834473,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 5,
+            "tag": 11,
+            "treeBaseDuration": 0.09900510311126709,
+            "type": [Object
+            ],
+            "updateQueue": null
+        },
+        "_debugSource": {
+            "columnNumber": 7,
+            "fileName": "/Users/darshan/Downloads/Study/Javascript/React-Native/Funica/node_modules/react-native/Libraries/Components/View/View.js",
+            "lineNumber": 32
+        },
+        "actualDuration": 0.07685506343841553,
+        "actualStartTime": 598321097.571944,
+        "alternate": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.06612002849578857,
+            "actualStartTime": 598311016.330538,
+            "alternate": [Circular
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RCTView",
+            "flags": 4,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.004665017127990723,
+            "sibling": null,
+            "stateNode": [ReactNativeFiberHostComponent
+            ],
+            "subtreeFlags": 5,
+            "tag": 5,
+            "treeBaseDuration": 0.05927300453186035,
+            "type": "RCTView",
+            "updateQueue": null
+        },
+        "child": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.07190501689910889,
+            "actualStartTime": 598321097.576892,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Object
+            ],
+            "flags": 1,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [Circular
+            ],
+            "selfBaseDuration": 0.026867032051086426,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 5,
+            "tag": 11,
+            "treeBaseDuration": 0.0677189826965332,
+            "type": [Object
+            ],
+            "updateQueue": null
+        },
+        "childLanes": 0,
+        "deletions": null,
+        "dependencies": null,
+        "elementType": "RCTView",
+        "flags": 4,
+        "index": 0,
+        "key": null,
+        "lanes": 0,
+        "memoizedProps": {
+            "children": <Image … />,
+            "onMoveShouldSetResponder": [Function onMoveShouldSetResponder
+            ],
+            "onResponderStart": [Function onResponderStart
+            ],
+            "onStartShouldSetResponder": [Function onStartShouldSetResponder
+            ]
+        },
+        "memoizedState": null,
+        "mode": 2,
+        "pendingProps": {
+            "children": <Image … />,
+            "onMoveShouldSetResponder": [Function onMoveShouldSetResponder
+            ],
+            "onResponderStart": [Function onResponderStart
+            ],
+            "onStartShouldSetResponder": [Function onStartShouldSetResponder
+            ]
+        },
+        "ref": null,
+        "return": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.0818181037902832,
+            "actualStartTime": 598321097.567155,
+            "alternate": [FiberNode
+            ],
+            "child": [Circular
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Object
+            ],
+            "flags": 0,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.0035660266876220703,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 5,
+            "tag": 10,
+            "treeBaseDuration": 0.07496905326843262,
+            "type": [Object
+            ],
+            "updateQueue": null
+        },
+        "selfBaseDuration": 0.0036840438842773438,
+        "sibling": null,
+        "stateNode": {
+            "_children": [Array
+            ],
+            "_internalFiberInstanceHandleDEV": [FiberNode
+            ],
+            "_nativeTag": 5773,
+            "viewConfig": [Object
+            ]
+        },
+        "subtreeFlags": 5,
+        "tag": 5,
+        "treeBaseDuration": 0.07140302658081055,
+        "type": "RCTView",
+        "updateQueue": null
+    },
+    "_dispatchListeners": [Function onResponderStart
+    ],
+    "_targetInst": {
+        "_debugHookTypes": null,
+        "_debugNeedsRemount": false,
+        "_debugOwner": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.10705912113189697,
+            "actualStartTime": 598321097.541471,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Object
+            ],
+            "flags": 1,
+            "index": 1,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.024036049842834473,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 5,
+            "tag": 11,
+            "treeBaseDuration": 0.09900510311126709,
+            "type": [Object
+            ],
+            "updateQueue": null
+        },
+        "_debugSource": {
+            "columnNumber": 7,
+            "fileName": "/Users/darshan/Downloads/Study/Javascript/React-Native/Funica/node_modules/react-native/Libraries/Components/View/View.js",
+            "lineNumber": 32
+        },
+        "actualDuration": 0.07685506343841553,
+        "actualStartTime": 598321097.571944,
+        "alternate": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.06612002849578857,
+            "actualStartTime": 598311016.330538,
+            "alternate": [Circular
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RCTView",
+            "flags": 4,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.004665017127990723,
+            "sibling": null,
+            "stateNode": [ReactNativeFiberHostComponent
+            ],
+            "subtreeFlags": 5,
+            "tag": 5,
+            "treeBaseDuration": 0.05927300453186035,
+            "type": "RCTView",
+            "updateQueue": null
+        },
+        "child": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.07190501689910889,
+            "actualStartTime": 598321097.576892,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Object
+            ],
+            "flags": 1,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [Circular
+            ],
+            "selfBaseDuration": 0.026867032051086426,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 5,
+            "tag": 11,
+            "treeBaseDuration": 0.0677189826965332,
+            "type": [Object
+            ],
+            "updateQueue": null
+        },
+        "childLanes": 0,
+        "deletions": null,
+        "dependencies": null,
+        "elementType": "RCTView",
+        "flags": 4,
+        "index": 0,
+        "key": null,
+        "lanes": 0,
+        "memoizedProps": {
+            "children": <Image … />,
+            "onMoveShouldSetResponder": [Function onMoveShouldSetResponder
+            ],
+            "onResponderStart": [Function onResponderStart
+            ],
+            "onStartShouldSetResponder": [Function onStartShouldSetResponder
+            ]
+        },
+        "memoizedState": null,
+        "mode": 2,
+        "pendingProps": {
+            "children": <Image … />,
+            "onMoveShouldSetResponder": [Function onMoveShouldSetResponder
+            ],
+            "onResponderStart": [Function onResponderStart
+            ],
+            "onStartShouldSetResponder": [Function onStartShouldSetResponder
+            ]
+        },
+        "ref": null,
+        "return": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.0818181037902832,
+            "actualStartTime": 598321097.567155,
+            "alternate": [FiberNode
+            ],
+            "child": [Circular
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": [Object
+            ],
+            "flags": 0,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.0035660266876220703,
+            "sibling": null,
+            "stateNode": null,
+            "subtreeFlags": 5,
+            "tag": 10,
+            "treeBaseDuration": 0.07496905326843262,
+            "type": [Object
+            ],
+            "updateQueue": null
+        },
+        "selfBaseDuration": 0.0036840438842773438,
+        "sibling": null,
+        "stateNode": {
+            "_children": [Array
+            ],
+            "_internalFiberInstanceHandleDEV": [FiberNode
+            ],
+            "_nativeTag": 5773,
+            "viewConfig": [Object
+            ]
+        },
+        "subtreeFlags": 5,
+        "tag": 5,
+        "treeBaseDuration": 0.07140302658081055,
+        "type": "RCTView",
+        "updateQueue": null
+    },
+    "bubbles": undefined,
+    "cancelable": undefined,
+    "currentTarget": {
+        "_children": [
+            [ReactNativeFiberHostComponent
+            ]
+        ],
+        "_internalFiberInstanceHandleDEV": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.06612002849578857,
+            "actualStartTime": 598311016.330538,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RCTView",
+            "flags": 4,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.004665017127990723,
+            "sibling": null,
+            "stateNode": [Circular
+            ],
+            "subtreeFlags": 5,
+            "tag": 5,
+            "treeBaseDuration": 0.05927300453186035,
+            "type": "RCTView",
+            "updateQueue": null
+        },
+        "_nativeTag": 5773,
+        "viewConfig": {
+            "Commands": [Object
+            ],
+            "Constants": [Object
+            ],
+            "Manager": "ViewManager",
+            "NativeProps": [Object
+            ],
+            "baseModuleName": null,
+            "bubblingEventTypes": [Object
+            ],
+            "directEventTypes": [Object
+            ],
+            "uiViewClassName": "RCTView",
+            "validAttributes": [Object
+            ]
+        }
+    },
+    "defaultPrevented": undefined,
+    "dispatchConfig": {
+        "dependencies": [
+            "topTouchStart"
+        ],
+        "registrationName": "onResponderStart"
+    },
+    "eventPhase": undefined,
+    "isDefaultPrevented": [Function functionThatReturnsFalse
+    ],
+    "isPropagationStopped": [Function functionThatReturnsFalse
+    ],
+    "isTrusted": undefined,
+    "nativeEvent": {
+        "changedTouches": [
+            [Circular
+            ]
+        ],
+        "identifier": 1,
+        "locationX": 152,
+        "locationY": 190.99999237060547,
+        "pageX": 197,
+        "pageY": 366.6666564941406,
+        "target": 5777,
+        "timestamp": 71440981.71287301,
+        "touches": [
+            [Circular
+            ]
+        ]
+    },
+    "target": {
+        "_children": [],
+        "_internalFiberInstanceHandleDEV": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": [Object
+            ],
+            "actualDuration": 0.005643010139465332,
+            "actualStartTime": 598321097.644083,
+            "alternate": [FiberNode
+            ],
+            "child": null,
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RCTImageView",
+            "flags": 4,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": null,
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.003926992416381836,
+            "sibling": null,
+            "stateNode": [Circular
+            ],
+            "subtreeFlags": 0,
+            "tag": 5,
+            "treeBaseDuration": 0.003926992416381836,
+            "type": "RCTImageView",
+            "updateQueue": null
+        },
+        "_nativeTag": 5777,
+        "viewConfig": {
+            "Commands": [Object
+            ],
+            "Constants": [Object
+            ],
+            "Manager": "ImageViewManager",
+            "NativeProps": [Object
+            ],
+            "baseModuleName": "RCTView",
+            "bubblingEventTypes": [Object
+            ],
+            "directEventTypes": [Object
+            ],
+            "uiViewClassName": "RCTImageView",
+            "validAttributes": [Object
+            ]
+        }
+    },
+    "timeStamp": 1659856749450,
+    "touchHistory": {
+        "indexOfSingleActiveTouch": 1,
+        "mostRecentTimeStamp": 71440981.71287301,
+        "numberActiveTouches": 1,
+        "touchBank": [undefined,
+            [Object
+            ],
+            [Object
+            ]
+        ]
+    },
+    "type": undefined
+}
