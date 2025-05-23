@@ -1,2 +1,1 @@
-# Funica
-
+# Project Removed
